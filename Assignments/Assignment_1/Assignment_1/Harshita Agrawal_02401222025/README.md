@@ -1,3 +1,3 @@
-Harshita Agrawal 
-02401222025
-IGDTUW 
+Student Name: Harshita Agrawal 
+Enrollment number: 02401222025
+College Name: IGDTUW 
